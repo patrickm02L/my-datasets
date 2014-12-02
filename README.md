@@ -1,4 +1,4 @@
-Data-Sets-For-Lovers
+Datasets-For-Lovers
 ====================
 
 This is the place where I will share some pretty cool data sets I've found and or made. Here's a pretty cool tool I use to extract/scrape/crawl sites for data: https://import.io. Your data-set is a wonderland.
