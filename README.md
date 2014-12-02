@@ -1,11 +1,9 @@
 Data-Sets-For-Lovers
 ====================
 
-This is the place where I will share some pretty cool data sets I've found and or made. Your data-set is a wonderland.
+This is the place where I will share some pretty cool data sets I've found and or made. Your data-set is a wonderland. Here's a pretty cool tool I use to extract/scrape/crawl sites for data: https://import.io. 
 
 ====================
-
-Here's a pretty cool tool I use to extract/scrape/crawl sites for data: https://import.io. 
 
 ## Grants Funding
 #### National Endowment for the Arts (NEA) Grants
@@ -14,5 +12,4 @@ Click the button Select All for the Discipline/Fields and Grant Categories, then
 
 #### ArtPlace Grants
 http://www.artplaceamerica.org/grants/
-On the right hand side, under filter grants click on Download all. An .xls file will download promptly. 
-
+On the right hand side, under filter grants click on Download all. An .xls file will download promptly.
